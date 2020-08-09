@@ -11,4 +11,10 @@ Lesson 4: Building Fashion MNIST Model(https://github.com/AashiDutt/Tensorflow2.
 
 Lesson 5: MNIST Model(https://github.com/AashiDutt/Tensorflow2.0/blob/master/Lesson5_MNIST_Model.ipynb)
 
+Lesson 6: Batch_normalisation(https://github.com/AashiDutt/Tensorflow2.0/blob/master/Lesson6_Batch_normalisation.ipynb)
+
+Lesson 7: Logs dictionary(https://github.com/AashiDutt/Tensorflow2.0/blob/master/Lesson7_Logs%20dictionary.ipynb)
+
+Lesson 8: diabetes_dataset_model(https://github.com/AashiDutt/Tensorflow2.0/blob/master/Lesson8_diabetes_dataset_model.ipynb)
+
 
