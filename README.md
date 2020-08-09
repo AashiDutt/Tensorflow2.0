@@ -17,4 +17,6 @@ Lesson 7: Logs dictionary(https://github.com/AashiDutt/Tensorflow2.0/blob/master
 
 Lesson 8: diabetes_dataset_model(https://github.com/AashiDutt/Tensorflow2.0/blob/master/Lesson8_diabetes_dataset_model.ipynb)
 
+Lesson 9: Additional Callbacks(https://github.com/AashiDutt/Tensorflow2.0/blob/master/Lesson9_Additional%20callbacks.ipynb)
+
 
